@@ -1,6 +1,11 @@
-.env
-/build
-/node_modules
+node_modules
+
 /.cache
-/.DS_Store
-/.vscode
+/build
+.env
+
+.wrangler
+.dev.vars
+
+public/draco
+storybook-static
