@@ -1,4 +1,4 @@
-.contact {
+/* .contact {
   --formHeight: 530px;
 
   display: grid;
@@ -311,4 +311,4 @@
   &:global {
     animation: fade-in var(--durationL) ease var(--durationXL) forwards;
   }
-}
+} */
